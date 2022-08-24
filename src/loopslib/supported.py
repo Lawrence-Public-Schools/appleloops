@@ -21,6 +21,7 @@ SUPPORTED = {
     'logicpro1040': 'logicpro1040.plist',
     'logicpro1042': 'logicpro1042.plist',
     'logicpro1050': 'logicpro1050.plist',
+    'logicpro1070': 'logicpro1070.plist',
     'mainstage323': 'mainstage323.plist',
     'mainstage324': 'mainstage324.plist',
     'mainstage330': 'mainstage330.plist',
